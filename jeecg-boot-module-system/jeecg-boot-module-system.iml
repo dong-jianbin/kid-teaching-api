@@ -15,6 +15,7 @@
         <setting name="validation-enabled" value="true" />
         <setting name="provider-name" value="Hibernate" />
         <datasource-mapping>
+          <factory-entry name="jeecg-boot-module-system" />
           <factory-entry name="teaching-open" />
         </datasource-mapping>
         <naming-strategy-map />

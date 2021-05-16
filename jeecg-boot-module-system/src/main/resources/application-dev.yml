@@ -192,10 +192,10 @@ jeecg :
     staticDomain: ??
   #七牛云存储配置
   qiniu:
-    accessKey: 7r03dL3CsbQtW1DeV2xEic4DjRBIuMgCBHrkGjKo
-    secretKey: OQ3jE8SjeTpl34PfSq3C10tYVuE9KFfYujZwzUtJ
-    bucketName: teaching-open
-    staticDomain: //open.qn.teaching.vip
+    accessKey: 9GhP6cRux8pTsi4tnjjj1XSc8j-F4WZsE80LLBpY
+    secretKey: Vyy7ybijTuWcLXezMlOj0eNgxvTmmt0nGxoit6rN
+    bucketName: dy-store
+    staticDomain: //qt58gtti8.hn-bkt.clouddn.com
     
   # ElasticSearch 设置
   elasticsearch:
